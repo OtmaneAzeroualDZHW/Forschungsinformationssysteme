@@ -4,4 +4,5 @@ So far, no data quality measurements have been programmed with Python to assess 
 
 
 More details can be found in this research paper:
+
 Azeroual O, Lewoniewski W. How to Inspect and Measure Data Quality about Scientific Publications: Use Case of Wikipedia and CRIS Databases. Algorithms. 2020; 13(5):107. https://doi.org/10.3390/a13050107 
